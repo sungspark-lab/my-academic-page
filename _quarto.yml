@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs  # GitHub Pages 배포를 위해 docs로 설정
+
+website:
+  title: "Sungsoo Park, DVM"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: resume.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/your-username
+      - icon: envelope
+        text: Email
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+

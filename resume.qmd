@@ -1,0 +1,65 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+---
+
+## 👨‍⚕️ Profile
+**박성수 (Sungsoo Park, DVM)**
+- **Current**: Ph.D. Student, Lab of Theriogenology, Chungnam National University
+- **Specialty**: Veterinary Reproduction, Genome Editing, Bioinformatics
+
+---
+
+## 🎓 Education
+- **박사 과정 (Ph.D. Student)** | 2026 - 현재  
+  충남대학교 수의학과 (산과학 전공)  
+  *Advisor: 전유별 교수님*
+
+- **수의학 석사 (MS in Veterinary Medicine)** | 2024 - 2026  
+  전북대학교 수의학과 (산과학 및 분자유전학)  
+  *Thesis 주제: CRISPR/dCas9 시스템을 이용한 골관절염 유전자 치료 연구*
+
+- **수의학사 (DVM)** | 2016 - 2024  
+  전북대학교 수의학과 (졸업)
+
+---
+
+## 🔬 Research Interests
+- **Endometrial Organoids**: 자궁내막 오가노이드 모델 구축 및 착상 기전 연구
+- **Implantation Failure**: 착상 실패의 분자적 원인 규명 및 치료제 개발
+- **Genome Engineering**: CRISPR/Cas9 기술을 활용한 질병 모델링 및 치료 전략
+
+---
+
+## 💻 Technical Skills
+
+### Bioinformatics (Dry-lab)
+- **R Programming**: 데이터 전처리 및 시각화 (ggplot2)
+- **Transcriptomics**: DESeq2를 활용한 Bulk RNA-seq 분석
+- **Single-cell Analysis**: Seurat 패키지를 이용한 scRNA-seq 데이터 프로세싱 및 클러스터링
+- **Data Resources**: Bioconductor 패키지 활용 및 NCBI/GEO 데이터 분석
+
+### Laboratory Techniques (Wet-lab)
+- **Cell Culture**: Primary cell isolation 및 culture, 3D Organoid culture
+- **Molecular Biology**: CRISPR/Cas9 (Knock-out/Activation), Cloning, qPCR, Western Blot
+- **Animal Work**: 마우스 사육 관리 및 LMO 시설 운용
+
+---
+
+## 🎖️ License & Honors
+- **대한민국 수의사 면허 (DVM)** | 농림축산식품부 2024
+- **Class of 2025 석사 졸업생 대표** | 전북대학교 수의과대학 2026
+- **총장상 (성적우수)** | 전북대학교 (Jeonbuk National University) 2017  
+- **최우수훈련병** | 육군훈련소 2018
+
+---
+
+## 📊 Projects
+### CRISPR/dCas9 기반 골관절염 치료 (석사 학위 연구)
+- Runx2, Sox9 등의 전사 인자를 조절하여 연골 세포의 퇴행을 억제하는 유전자 치료 전략 수립
+- ChIP-seq 및 RNA-seq 통합 분석을 통한 기전 규명
+
+### 자궁내막 오가노이드 기반 착상 모델 연구 (현재)
+- 3D in-vitro 모델을 활용한 배아-자궁내막 상호작용 분석

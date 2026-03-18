@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sungsoo Park, D.V.M.",
+    "section": "",
+    "text": "안녕하세요, 박성수입니다. 저는 수의사이자 충남대학교 수의학과 산과학실험실(Lab of Theriogenology)에서 박사 과정을 밟고 있는 연구자입니다.\n현재 Endometrial Organoid를 활용하여 착상(Implantation) 기전을 규명하고, 착상 실패를 극복하기 위한 치료제 개발 연구에 매진하고 있습니다."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research & Skills",
+    "section": "",
+    "text": "Embryo Implantation: Endometrial organoid 모델을 이용한 착상 기전 연구\nTherapeutics: 착상 실패(Implantation failure) 치료 후보 물질 발굴"
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research & Skills",
+    "section": "",
+    "text": "Embryo Implantation: Endometrial organoid 모델을 이용한 착상 기전 연구\nTherapeutics: 착상 실패(Implantation failure) 치료 후보 물질 발굴"
+  },
+  {
+    "objectID": "research.html#education",
+    "href": "research.html#education",
+    "title": "Research & Skills",
+    "section": "Education",
+    "text": "Education\n\n박사과정: 충남대학교 수의학과 (번식학 전공)\n석사: 전북대학교 수의학과 (학위논문: CRISPR/dCas9을 이용한 골관절염 유전자치료)\n학사: 전북대학교 수의학과"
+  },
+  {
+    "objectID": "research.html#technical-skills",
+    "href": "research.html#technical-skills",
+    "title": "Research & Skills",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nBioinformatics\n\nR / Bioconductor: RNA-seq 분석 전문\nTranscriptomics: DEseq2를 이용한 차등 발현 유전자 분석\nSingle-cell Analysis: Seurat 패키지를 활용한 scRNA-seq 데이터 분석 및 시각화\n\n\n\nWet Lab\n\nGenome Editing: CRISPR/Cas9 System 설계 및 운용\nCell Culture: Primary cell culture 및 Organoid 배양"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "박성수 (Sungsoo Park, DVM) - Current: Ph.D. Student, Lab of Theriogenology, Chungnam National University - Specialty: Veterinary Reproduction, Genome Editing, Bioinformatics"
+  },
+  {
+    "objectID": "resume.html#profile",
+    "href": "resume.html#profile",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "박성수 (Sungsoo Park, DVM) - Current: Ph.D. Student, Lab of Theriogenology, Chungnam National University - Specialty: Veterinary Reproduction, Genome Editing, Bioinformatics"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Curriculum Vitae",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\n박사 과정 (Ph.D. Student) | 2026 - 현재\n충남대학교 수의학과 (산과학 전공)\nAdvisor: 전유별 교수님\n수의학 석사 (MS in Veterinary Medicine) | 2024 - 2026\n전북대학교 수의학과 (산과학 및 분자유전학)\nThesis 주제: CRISPR/dCas9 시스템을 이용한 골관절염 유전자 치료 연구\n수의학사 (DVM) | 2016 - 2024\n전북대학교 수의학과 (졸업)"
+  },
+  {
+    "objectID": "resume.html#research-interests",
+    "href": "resume.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "🔬 Research Interests",
+    "text": "🔬 Research Interests\n\nEndometrial Organoids: 자궁내막 오가노이드 모델 구축 및 착상 기전 연구\nImplantation Failure: 착상 실패의 분자적 원인 규명 및 치료제 개발\nGenome Engineering: CRISPR/Cas9 기술을 활용한 질병 모델링 및 치료 전략"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "💻 Technical Skills",
+    "text": "💻 Technical Skills\n\nBioinformatics (Dry-lab)\n\nR Programming: 데이터 전처리 및 시각화 (ggplot2)\nTranscriptomics: DESeq2를 활용한 Bulk RNA-seq 분석\nSingle-cell Analysis: Seurat 패키지를 이용한 scRNA-seq 데이터 프로세싱 및 클러스터링\nData Resources: Bioconductor 패키지 활용 및 NCBI/GEO 데이터 분석\n\n\n\nLaboratory Techniques (Wet-lab)\n\nCell Culture: Primary cell isolation 및 culture, 3D Organoid culture\nMolecular Biology: CRISPR/Cas9 (Knock-out/Activation), Cloning, qPCR, Western Blot\nAnimal Work: 마우스 사육 관리 및 LMO 시설 운용"
+  },
+  {
+    "objectID": "resume.html#license-honors",
+    "href": "resume.html#license-honors",
+    "title": "Curriculum Vitae",
+    "section": "🎖️ License & Honors",
+    "text": "🎖️ License & Honors\n\n대한민국 수의사 면허 (DVM) | 농림축산식품부 2024\nClass of 2025 석사 졸업생 대표 | 전북대학교 수의과대학 2026\n총장상 (성적우수) | 전북대학교 (Jeonbuk National University) 2017\n\n최우수훈련병 | 육군훈련소 2018"
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Curriculum Vitae",
+    "section": "📊 Projects",
+    "text": "📊 Projects\n\nCRISPR/dCas9 기반 골관절염 치료 (석사 학위 연구)\n\nRunx2, Sox9 등의 전사 인자를 조절하여 연골 세포의 퇴행을 억제하는 유전자 치료 전략 수립\nChIP-seq 및 RNA-seq 통합 분석을 통한 기전 규명\n\n\n\n자궁내막 오가노이드 기반 착상 모델 연구 (현재)\n\n3D in-vitro 모델을 활용한 배아-자궁내막 상호작용 분석"
+  }
+]

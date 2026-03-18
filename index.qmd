@@ -1,0 +1,18 @@
+---
+title: "Sungsoo Park, D.V.M."
+about:
+  template: jolla
+  image: 1607866604499.jpg # 본인 사진 파일명
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/sungspark-lab
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/sungspark0405/
+---
+
+안녕하세요, **박성수**입니다. 
+저는 수의사이자 **충남대학교 수의학과 산과학실험실(Lab of Theriogenology)**에서 박사 과정을 밟고 있는 연구자입니다.
+
+현재 **Endometrial Organoid**를 활용하여 착상(Implantation) 기전을 규명하고, 착상 실패를 극복하기 위한 치료제 개발 연구에 매진하고 있습니다.
