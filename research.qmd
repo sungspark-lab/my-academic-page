@@ -1,22 +1,55 @@
 ---
 title: "Research & Skills"
+page-layout: full
 ---
 
-## Current Research
-- **Embryo Implantation**: Endometrial organoid 모델을 이용한 착상 기전 연구
-- **Therapeutics**: 착상 실패(Implantation failure) 치료 후보 물질 발굴
+## 🧬 Current Research Focus
 
-## Education
-- **박사과정**: 충남대학교 수의학과 (번식학 전공)
-- **석사**: 전북대학교 수의학과 (학위논문: *CRISPR/dCas9을 이용한 골관절염 유전자치료*)
-- **학사**: 전북대학교 수의학과
+::: {layout-nw="[[1, 1]]"}
 
-## Technical Skills
-### Bioinformatics
-- **R / Bioconductor**: RNA-seq 분석 전문
-- **Transcriptomics**: DEseq2를 이용한 차등 발현 유전자 분석
-- **Single-cell Analysis**: Seurat 패키지를 활용한 scRNA-seq 데이터 분석 및 시각화
+### Embryo Implantation
+자궁내막 오가노이드(**Endometrial Organoid**) 모델을 구축하여 배아 착상 과정의 복잡한 기전을 분자 수준에서 연구합니다. 3D in-vitro 시스템을 통해 실제 자궁 환경을 모사하고 착상 효율을 극대화하는 요인을 분석합니다.
 
-### Wet Lab
-- **Genome Editing**: CRISPR/Cas9 System 설계 및 운용
-- **Cell Culture**: Primary cell culture 및 Organoid 배양
+### Implantation Failure
+반복적인 착상 실패(Implantation failure)의 원인을 규명하고, 이를 극복하기 위한 **새로운 치료 후보 타겟**을 발굴하고 있습니다. 
+:::
+
+:::{.callout-note}
+## 🎯 Research Goal
+수의학적 지식과 유전체 분석 기술을 결합하여 난임 치료의 새로운 패러다임을 제시하는 것을 목표로 합니다.
+:::
+
+---
+
+## 🛠️ Technical Expertise
+
+::: {.panel-tabset}
+
+### 💻 Bioinformatics (Dry-lab)
+연구 데이터를 직접 분석하고 시각화하는 강력한 파이프라인을 보유하고 있습니다.
+
+* **R / Bioconductor**: 대규모 유전체 데이터 처리 및 통계 분석
+* **Transcriptomics**: **DESeq2**를 이용한 Bulk RNA-seq 차등 발현 유전자(DEG) 분석
+* **Single-cell Analysis**: **Seurat** 패키지를 활용한 scRNA-seq 데이터 클러스터링 및 Cell-type annotation
+* **Data Visualization**: ggplot2를 이용한 논문 수준의 시각화 (Heatmap, Volcano plot, UMAP)
+
+### 🧪 Molecular Biology (Wet-lab)
+유전자 교정과 세포 배양 기술을 통해 가설을 직접 검증합니다.
+
+* **Genome Editing**: **CRISPR/Cas9** System (Repression/Activation) 설계 및 처리
+* **Cell Engineering**: Primary cell isolation 및 3D Organoid culture
+* **Analytical Techniques**: qPCR, Western Blot, Immunofluorescence(IF)
+* **In-vivo Model**
+:::
+
+---
+
+## 🎓 Academic Background
+
+| Degree | Institution | Major | Status |
+|:---:|:---|:---|:---:|
+| **Ph.D.** | 충남대학교 수의과대학 | Theriogenology | 재학 중 |
+| **M.S.** | 전북대학교 수의과대학 | Theriogenology & Molecular Genetics | 졸업 (2026) |
+| **D.V.M.** | 전북대학교 수의과대학 | Veterinary Medicine | 졸업 (2024) |
+
+> **Master's Thesis 주제**: *CRISPR/dCas9 시스템을 이용한 골관절염 유전자 치료 연구* (Runx2/Sox9 중심의 연골 퇴행 억제 기전 연구)
