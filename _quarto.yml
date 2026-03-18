@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Sungsoo Park, DVM"
+  favicon: favicon.png
   navbar:
     left:
       - href: index.qmd
@@ -18,7 +19,6 @@ website:
       - icon: github
         href: https://github.com/sungspark-lab
       - icon: envelope
-        text: Email
         href: mailto:sungspark@o.cnu.ac.kr
 
 format:
