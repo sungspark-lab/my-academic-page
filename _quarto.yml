@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs  # GitHub Pages 배포를 위해 docs로 설정
+  output-dir: docs
 
 website:
   title: "Sungsoo Park, DVM"
@@ -13,15 +13,16 @@ website:
       - href: resume.qmd
         text: CV
     right:
+      - icon: instagram
+        href: https://www.instagram.com/sungspark0405
       - icon: github
-        href: https://github.com/your-username
+        href: https://github.com/sungspark-lab
       - icon: envelope
         text: Email
+        href: mailto:sungspark@o.cnu.ac.kr
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-
-
