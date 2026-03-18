@@ -21,12 +21,12 @@ page-layout: full
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Skills
 
 ::: {.panel-tabset}
 
 ### 💻 Bioinformatics (Dry-lab)
-연구 데이터를 직접 분석하고 시각화하는 강력한 파이프라인을 보유하고 있습니다.
+연구 데이터를 직접 분석하고 시각화합니다.
 
 * **R / Bioconductor**: 대규모 유전체 데이터 처리 및 통계 분석
 * **Transcriptomics**: **DESeq2**를 이용한 Bulk RNA-seq 차등 발현 유전자(DEG) 분석

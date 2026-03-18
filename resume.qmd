@@ -7,7 +7,9 @@ format:
 
 ## 👨‍⚕️ Profile
 **박성수 (Sungsoo Park, DVM)**
+
 - **Current**: Ph.D. Student, Lab of Theriogenology, Chungnam National University
+
 - **Specialty**: Veterinary Reproduction, Genome Editing, Bioinformatics
 
 ---
