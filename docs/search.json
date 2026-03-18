@@ -1,45 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sungsoo Park, D.V.M.",
-    "section": "",
-    "text": "안녕하세요, 박성수입니다. 저는 수의사이자 충남대학교 수의학과 산과학실험실(Lab of Theriogenology)에서 박사 과정을 밟고 있는 연구자입니다.\n현재 Endometrial Organoid를 활용하여 착상(Implantation) 기전을 규명하고, 착상 실패를 극복하기 위한 치료제 개발 연구에 매진하고 있습니다."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research & Skills",
     "section": "",
-    "text": "Embryo Implantation: Endometrial organoid 모델을 이용한 착상 기전 연구\nTherapeutics: 착상 실패(Implantation failure) 치료 후보 물질 발굴"
+    "text": "자궁내막 오가노이드(Endometrial Organoid) 모델을 구축하여 배아 착상 과정의 복잡한 기전을 분자 수준에서 연구합니다. 3D in-vitro 시스템을 통해 실제 자궁 환경을 모사하고 착상 효율을 극대화하는 요인을 분석합니다.\n\n\n\n반복적인 착상 실패(Implantation failure)의 원인을 규명하고, 이를 극복하기 위한 새로운 치료 후보 타겟을 발굴하고 있습니다.\n\n\n\n\n\n\n\n\nNote🎯 Research Goal\n\n\n\n수의학적 지식과 유전체 분석 기술을 결합하여 난임 치료의 새로운 패러다임을 제시하는 것을 목표로 합니다."
   },
   {
-    "objectID": "research.html#current-research",
-    "href": "research.html#current-research",
+    "objectID": "research.html#current-research-focus",
+    "href": "research.html#current-research-focus",
     "title": "Research & Skills",
     "section": "",
-    "text": "Embryo Implantation: Endometrial organoid 모델을 이용한 착상 기전 연구\nTherapeutics: 착상 실패(Implantation failure) 치료 후보 물질 발굴"
+    "text": "자궁내막 오가노이드(Endometrial Organoid) 모델을 구축하여 배아 착상 과정의 복잡한 기전을 분자 수준에서 연구합니다. 3D in-vitro 시스템을 통해 실제 자궁 환경을 모사하고 착상 효율을 극대화하는 요인을 분석합니다.\n\n\n\n반복적인 착상 실패(Implantation failure)의 원인을 규명하고, 이를 극복하기 위한 새로운 치료 후보 타겟을 발굴하고 있습니다.\n\n\n\n\n\n\n\n\nNote🎯 Research Goal\n\n\n\n수의학적 지식과 유전체 분석 기술을 결합하여 난임 치료의 새로운 패러다임을 제시하는 것을 목표로 합니다."
   },
   {
-    "objectID": "research.html#education",
-    "href": "research.html#education",
+    "objectID": "research.html#technical-expertise",
+    "href": "research.html#technical-expertise",
     "title": "Research & Skills",
-    "section": "Education",
-    "text": "Education\n\n박사과정: 충남대학교 수의학과 (번식학 전공)\n석사: 전북대학교 수의학과 (학위논문: CRISPR/dCas9을 이용한 골관절염 유전자치료)\n학사: 전북대학교 수의학과"
+    "section": "🛠️ Technical Expertise",
+    "text": "🛠️ Technical Expertise\n\n💻 Bioinformatics (Dry-lab)🧪 Molecular Biology (Wet-lab)\n\n\n연구 데이터를 직접 분석하고 시각화하는 강력한 파이프라인을 보유하고 있습니다.\n\nR / Bioconductor: 대규모 유전체 데이터 처리 및 통계 분석\nTranscriptomics: DESeq2를 이용한 Bulk RNA-seq 차등 발현 유전자(DEG) 분석\nSingle-cell Analysis: Seurat 패키지를 활용한 scRNA-seq 데이터 클러스터링 및 Cell-type annotation\nData Visualization: ggplot2를 이용한 논문 수준의 시각화 (Heatmap, Volcano plot, UMAP)\n\n\n\n유전자 교정과 세포 배양 기술을 통해 가설을 직접 검증합니다.\n\nGenome Editing: CRISPR/Cas9 System (Repression/Activation) 설계 및 처리\nCell Engineering: Primary cell isolation 및 3D Organoid culture\nAnalytical Techniques: qPCR, Western Blot, Immunofluorescence(IF)\nIn-vivo Model"
   },
   {
-    "objectID": "research.html#technical-skills",
-    "href": "research.html#technical-skills",
+    "objectID": "research.html#academic-background",
+    "href": "research.html#academic-background",
     "title": "Research & Skills",
-    "section": "Technical Skills",
-    "text": "Technical Skills\n\nBioinformatics\n\nR / Bioconductor: RNA-seq 분석 전문\nTranscriptomics: DEseq2를 이용한 차등 발현 유전자 분석\nSingle-cell Analysis: Seurat 패키지를 활용한 scRNA-seq 데이터 분석 및 시각화\n\n\n\nWet Lab\n\nGenome Editing: CRISPR/Cas9 System 설계 및 운용\nCell Culture: Primary cell culture 및 Organoid 배양"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "section": "🎓 Academic Background",
+    "text": "🎓 Academic Background\n\n\n\n\n\n\n\n\n\nDegree\nInstitution\nMajor\nStatus\n\n\n\n\nPh.D.\n충남대학교 수의과대학\nTheriogenology\n재학 중\n\n\nM.S.\n전북대학교 수의과대학\nTheriogenology & Molecular Genetics\n졸업 (2026)\n\n\nD.V.M.\n전북대학교 수의과대학\nVeterinary Medicine\n졸업 (2024)\n\n\n\n\nMaster’s Thesis 주제: CRISPR/dCas9 시스템을 이용한 골관절염 유전자 치료 연구 (Runx2/Sox9 중심의 연골 퇴행 억제 기전 연구)"
   },
   {
     "objectID": "resume.html",
@@ -89,5 +75,19 @@
     "title": "Curriculum Vitae",
     "section": "📊 Projects",
     "text": "📊 Projects\n\nCRISPR/dCas9 기반 골관절염 치료 (석사 학위 연구)\n\nRunx2, Sox9 등의 전사 인자를 조절하여 연골 세포의 퇴행을 억제하는 유전자 치료 전략 수립\nChIP-seq 및 RNA-seq 통합 분석을 통한 기전 규명\n\n\n\n자궁내막 오가노이드 기반 착상 모델 연구 (현재)\n\n3D in-vitro 모델을 활용한 배아-자궁내막 상호작용 분석"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sungsoo Park, D.V.M.",
+    "section": "",
+    "text": "안녕하세요, 박성수입니다. 저는 수의사이자 충남대학교 수의학과 산과학실험실(Lab of Theriogenology)에서 박사 과정을 밟고 있는 연구자입니다.\n현재 Endometrial Organoid를 활용하여 착상(Implantation) 기전을 규명하고, 착상 실패를 극복하기 위한 치료제 개발 연구에 매진하고 있습니다."
   }
 ]
